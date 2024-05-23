@@ -1,0 +1,53 @@
+names:
+- Ahead Only
+- Beware of Snow-Ice
+- Bumpy Road
+- Crossroads Ahead
+- Cycle Crossing
+- End-of-no-passing
+- Give way
+- Left Zigzag Bend
+- No Entry
+- No Overtaking
+- No Overtaking By Heavy Goods Vehicles
+- No Speed Limit
+- No Trucks Allowed
+- No Vehicles
+- Other Danger
+- Priority Road
+- Road Construction
+- Road Narrowing
+- School Zone
+- Slippery Road
+- Speed Limit-20km-h-
+- Speed limit-100km-h-
+- Speed limit-120km-h-
+- Speed limit-30km-h-
+- Speed limit-50km-h-
+- Speed limit-60km-h-
+- Speed limit-70km-h-
+- Speed limit-80km-h-
+- Stop
+- Traffic Light
+- Turn Left
+- Turn Left Ahead
+- Turn Right
+- Turn Right Ahead
+- Wild Animals
+- Zebra Crossing
+- keep left
+- keep right
+- roundabout
+- straight or left
+- straight or right
+- vechiles-over-3.5-metric-tons-prohibited
+nc: 42
+roboflow:
+  license: CC BY 4.0
+  project: mydatasets-ezuel
+  url: https://universe.roboflow.com/traffic-sign-ihtea/mydatasets-ezuel/dataset/4
+  version: 4
+  workspace: traffic-sign-ihtea
+test: ../test/images
+train: MyDatasets-4/train/images
+val: MyDatasets-4/valid/images
